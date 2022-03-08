@@ -1,0 +1,7 @@
+https://docs.djangoproject.com/en/4.0/intro/tutorial01/
+
+https://docs.djangoproject.com/en/4.0/howto/windows/#common-pitfalls
+
+https://docs.python.org/3/tutorial/venv.html
+
+https://docs.djangoproject.com/en/4.0/topics/http/file-uploads/
